@@ -4,7 +4,7 @@
     display: flex;
     height: 528px;
     width: 407px;
-    border: 2px solid black;
+    border: 2px solid #CDD0D3;
     flex-wrap: wrap;
 
 
@@ -41,30 +41,25 @@
 
 }
 
-#display{
 
-}
 
-#button{
+.button{
     width: 100px;
     height: 100px;
     text-align: center;
-    border-top: 2px solid black;
-    border-right : 2px solid black;
+    border-top: 2px solid #CDD0D3;
+    border-right : 2px solid #CDD0D3;
 
 }
-#button div{
-    margin-top: 35px;
+.button div{
+    padding-top: 30px;
 }
 
-#Sbutton div{
-    margin-top: 30px;
-}
 
-#Sbutton{
+#signs div{
     width: 100px;
     height: 79.5px;
     text-align: center;
-    border-top: 2px solid black;
+    border-top: 2px solid #CDD0D3;
 
 }
